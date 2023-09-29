@@ -1,4 +1,4 @@
-# temp_mail
+# Temp mail
 
 A small code to use temporary mail services. 
 
